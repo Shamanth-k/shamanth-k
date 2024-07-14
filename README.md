@@ -7,13 +7,13 @@
 <img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/46869388/89207039-b899e600-d5d7-11ea-90d0-c894383d35b4.gif">
 
 
-<p align="left"> <a href="https://x.com/ShamanthK19?t=UQPua2w4GddMG5EI7BJlHQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/gubreleysanskar?logo=twitter&style=for-the-badge" alt="gubreleysanskar" /></a> </p>
+<p align="left"> <a href="https://x.com/ShamanthK19?t=UQPua2w4GddMG5EI7BJlHQ&s=09" target="blank"><img src="https://img.shields.io/twitter/follow/shamanth.k?logo=twitter&style=for-the-badge" alt="shamanth" /></a> </p>
 
 - 🔭 I’m currently working on *Competitive Pogramming*
 
 - 🌱 I’m currently learning ** Web development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/SanskarGubreley?tab=repositories](https://github.com/SanskarGubreley?tab=repositories)
+- 👨‍💻 All of my projects are available at https://x.com/ShamanthK19?t=UQPua2w4GddMG5EI7BJlHQ&s=09
 
 - 💬 Ask me about *Python, JAVA , DSA & Projects*
 
