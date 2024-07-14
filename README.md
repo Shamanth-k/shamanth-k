@@ -15,7 +15,7 @@
 
 - 👨‍💻 All of my projects are available at https://x.com/ShamanthK19?t=UQPua2w4GddMG5EI7BJlHQ&s=09
 
-- 💬 Ask me about *Python, JAVA , DSA & Projects*
+- 💬 Ask me about *HTML, JAVA , DSA & Projects*
 
 - 📫 How to reach me *shamanthk2004@gmail.com*
 
