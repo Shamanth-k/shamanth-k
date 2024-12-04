@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning ** Web development**
 
-- 👨‍💻 All of my projects are available at https://x.com/ShamanthK19?t=UQPua2w4GddMG5EI7BJlHQ&s=09
+- 👨‍💻 All of my projects are available at https://github.com/Shamanth-k
 
 - 💬 Ask me about *HTML, JAVA , DSA & Projects*
 
