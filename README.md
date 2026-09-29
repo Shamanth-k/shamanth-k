@@ -2,7 +2,6 @@
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
 
-
 <h1 align="center">Hi, I'm Shamanth Krishna V R</h1>
 
 <p align="center">
@@ -10,8 +9,8 @@
 </p>
 
 <p align="center">
-  Building applications, exploring cloud infrastructure,
-  and turning ideas into real products.
+  Building scalable applications, exploring cloud infrastructure,
+  and turning ideas into real-world products.
 </p>
 
 <br>
@@ -36,15 +35,14 @@
 <h2 align="center">ABOUT ME</h2>
 
 <p align="center">
-  I'm a Full Stack Developer interested in building scalable
-  web applications, cloud infrastructure, AI-powered systems
-  and developer tools.
+  I'm a Full Stack Developer focused on building modern web applications,
+  cloud-based systems, AI-powered solutions, and developer tools.
 </p>
 
 <p align="center">
-  I enjoy working across the entire development process —
+  I enjoy working across the complete development lifecycle —
   from designing interfaces and APIs to databases,
-  cloud infrastructure and deployment.
+  cloud infrastructure, deployment, and monitoring.
 </p>
 
 <br>
@@ -81,36 +79,42 @@
     alt="Portfolio"
   />
 </a>
+
 <a href="https://www.linkedin.com/in/shamanth-krishna-v-r-89178b267/" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
+
 <a href="https://www.instagram.com/shamanth._k/" target="_blank">
   <img
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
   />
 </a>
+
 <a href="https://x.com/ShamanthK19" target="_blank">
   <img
     src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
     alt="X"
   />
 </a>
+
 <a href="https://www.codechef.com/users/shamanth_k" target="_blank">
   <img
     src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
     alt="CodeChef"
   />
 </a>
+
 <a href="https://www.hackerrank.com/profile/shamanthk2004" target="_blank">
   <img
     src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
     alt="HackerRank"
   />
 </a>
+
 <a href="https://leetcode.com/u/OhoPcMwPyX/" target="_blank">
   <img
     src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
@@ -190,7 +194,7 @@
 
 ### AI-Driven Legislation Architect
 
-Interactive game-based platform exploring legislation and policy decisions using AI-driven logic.
+An interactive game-based platform exploring legislation and policy decisions through AI-driven logic.
 
 **Tech:** React • Node.js • Express • SQLite • TensorFlow.js
 
@@ -198,7 +202,7 @@ Interactive game-based platform exploring legislation and policy decisions using
 
 ### Cloud Image & Video Gallery
 
-Cloud-based media platform for uploading, storing and managing images and videos.
+A cloud-based media platform for uploading, storing, and managing images and videos.
 
 **Tech:** MERN • AWS S3 • Tailwind CSS
 
@@ -206,7 +210,7 @@ Cloud-based media platform for uploading, storing and managing images and videos
 
 ### Root Cause Analyser
 
-Real-time log monitoring and incident analysis system with rule-based detection.
+A real-time log monitoring and incident analysis system with rule-based detection and reporting.
 
 **Tech:** React • Flask • MongoDB • Python
 
@@ -214,14 +218,14 @@ Real-time log monitoring and incident analysis system with rule-based detection.
 
 ### IoT Attendance Platform
 
-Automated attendance and work-hour tracking using an IP-based biometric device.
+An automated attendance and work-hour tracking system integrated with an IP-based biometric device.
 
 **Tech:** Node.js • Express • MySQL • IoT
 
 <br>
 
 <!-- ========================================================= -->
-<!--                   CONTRIBUTION SNAKE                      -->
+<!--                    CONTRIBUTION SNAKE                      -->
 <!-- ========================================================= -->
 
 <h2 align="center">CONTRIBUTION GRAPH</h2>
@@ -236,21 +240,21 @@ Automated attendance and work-hour tracking using an IP-based biometric device.
 <br>
 
 <!-- ========================================================= -->
-<!--                     CURRENT FOCUS                         -->
+<!--                    WHAT I'M BUILDING                      -->
 <!-- ========================================================= -->
 
-<h2 align="center">CURRENT FOCUS</h2>
+<h2 align="center">WHAT I'M BUILDING</h2>
 
 <p align="center">
-  Building scalable applications
+  Scalable full-stack applications
   <br>
-  Exploring AWS & Cloud Architecture
+  Cloud-native systems on AWS
   <br>
-  Learning AI/ML systems
+  AI/ML-powered applications
   <br>
-  Improving DevOps workflows
+  Developer automation tools
   <br>
-  Creating useful developer tools
+  Reliable DevOps workflows
 </p>
 
 <br>
@@ -260,6 +264,11 @@ Automated attendance and work-hour tracking using an IP-based biometric device.
 <!-- ========================================================= -->
 
 <h2 align="center">LET'S CONNECT</h2>
+
+<p align="center">
+  I'm always interested in building,
+  learning, and collaborating on interesting projects.
+</p>
 
 <p align="center">
   <a href="mailto:shamanthk2004@gmail.com">
