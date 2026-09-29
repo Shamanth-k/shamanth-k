@@ -17,7 +17,7 @@
   <a href="https://github.com/Shamanth-k">
     <img src="https://img.shields.io/github/stars/Shamanth-k?label=Stars&style=for-the-badge" />
   </a>
-  <a href="https://shamanth.tech/">
+  <a href="https://shamanth-prfolio.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-shamanth.tech-000000?style=for-the-badge" />
   </a>
 </p>
@@ -67,7 +67,7 @@
 
 <p align="center">
 
-<a href="https://shamanth.tech/" target="_blank">
+<a href="https://shamanth-prfolio.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
@@ -81,18 +81,6 @@
 
 <a href="https://x.com/ShamanthK19" target="_blank">
   <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/OhoPcMwPyX/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://www.hackerrank.com/profile/shamanthk2004" target="_blank">
-  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-</a>
-
-<a href="https://www.codechef.com/users/shamanth_k" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
 </a>
 
 </p>
