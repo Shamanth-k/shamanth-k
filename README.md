@@ -2,16 +2,8 @@
 <!--                         HEADER                            -->
 <!-- ========================================================= -->
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/Shamanth-k/count.svg"
-    alt="Visitor Count"
-  />
-</p>
 
-<h1 align="center">
-  Hi, I'm Shamanth Krishna V R
-</h1>
+<h1 align="center">Hi, I'm Shamanth Krishna V R</h1>
 
 <p align="center">
   Full Stack Developer • Cloud & AWS • AI/ML • DevOps
@@ -89,42 +81,36 @@
     alt="Portfolio"
   />
 </a>
-
 <a href="https://www.linkedin.com/in/shamanth-krishna-v-r-89178b267/" target="_blank">
   <img
     src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn"
   />
 </a>
-
 <a href="https://www.instagram.com/shamanth._k/" target="_blank">
   <img
     src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
     alt="Instagram"
   />
 </a>
-
 <a href="https://x.com/ShamanthK19" target="_blank">
   <img
     src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
     alt="X"
   />
 </a>
-
 <a href="https://www.codechef.com/users/shamanth_k" target="_blank">
   <img
     src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"
     alt="CodeChef"
   />
 </a>
-
 <a href="https://www.hackerrank.com/profile/shamanthk2004" target="_blank">
   <img
     src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"
     alt="HackerRank"
   />
 </a>
-
 <a href="https://leetcode.com/u/OhoPcMwPyX/" target="_blank">
   <img
     src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"
@@ -147,192 +133,6 @@
     src="https://www.gitskins.com/api/section/stack?username=Shamanth-k&theme=github-dark&style=aura"
     alt="Technology Stack"
   />
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                         LANGUAGES                         -->
-<!-- ========================================================= -->
-
-<h3 align="center">Languages</h3>
-
-<p align="center">
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  width="45"
-  alt="JavaScript"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-  width="45"
-  alt="TypeScript"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  width="45"
-  alt="Python"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-  width="45"
-  alt="Java"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  width="45"
-  alt="HTML5"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  width="45"
-  alt="CSS3"
-/>
-
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                         FRONTEND                          -->
-<!-- ========================================================= -->
-
-<h3 align="center">Frontend</h3>
-
-<p align="center">
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  width="45"
-  alt="React"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-  width="45"
-  alt="Next.js"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg"
-  width="45"
-  alt="Vite"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
-  width="45"
-  alt="Tailwind CSS"
-/>
-
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                    BACKEND & DATABASES                    -->
-<!-- ========================================================= -->
-
-<h3 align="center">Backend & Databases</h3>
-
-<p align="center">
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-  width="45"
-  alt="Node.js"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-  width="45"
-  alt="Express"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-  width="45"
-  alt="Flask"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-  width="45"
-  alt="MongoDB"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  width="45"
-  alt="MySQL"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg"
-  width="45"
-  alt="SQLite"
-/>
-
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                       CLOUD & DEVOPS                      -->
-<!-- ========================================================= -->
-
-<h3 align="center">Cloud & DevOps</h3>
-
-<p align="center">
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
-  width="55"
-  alt="AWS"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
-  width="45"
-  alt="Docker"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"
-  width="45"
-  alt="Terraform"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg"
-  width="45"
-  alt="GitHub Actions"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-original.svg"
-  width="45"
-  alt="Kubernetes"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg"
-  width="45"
-  alt="Prometheus"
-/>
-
-<img
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg"
-  width="45"
-  alt="Grafana"
-/>
-
 </p>
 
 <br>
@@ -368,37 +168,7 @@
 <br>
 
 <!-- ========================================================= -->
-<!--                    LANGUAGE STATS                         -->
-<!-- ========================================================= -->
-
-<h2 align="center">LANGUAGE DISTRIBUTION</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shamanth-k&layout=compact&theme=github_dark&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                     CODING STREAK                         -->
-<!-- ========================================================= -->
-
-<h2 align="center">CODING STREAK</h2>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Shamanth-k&theme=github-dark&hide_border=true"
-    alt="GitHub Coding Streak"
-  />
-</p>
-
-<br>
-
-<!-- ========================================================= -->
-<!--                   FEATURED PROJECTS                        -->
+<!--                         PROJECTS                          -->
 <!-- ========================================================= -->
 
 <h2 align="center">FEATURED PROJECTS</h2>
@@ -418,83 +188,35 @@
 
 <h2 align="center">PROJECT HIGHLIGHTS</h2>
 
-<table align="center">
-  <tr>
+### AI-Driven Legislation Architect
 
-    <td width="50%" align="center">
+Interactive game-based platform exploring legislation and policy decisions using AI-driven logic.
 
-      <h3>AI-Driven Legislation Architect</h3>
+**Tech:** React • Node.js • Express • SQLite • TensorFlow.js
 
-      <p>
-        Interactive game-based platform exploring legislation
-        and policy decisions using AI-driven logic.
-      </p>
+---
 
-      <p>
-        <b>
-          React • Node.js • Express • SQLite • TensorFlow.js
-        </b>
-      </p>
+### Cloud Image & Video Gallery
 
-    </td>
+Cloud-based media platform for uploading, storing and managing images and videos.
 
-    <td width="50%" align="center">
+**Tech:** MERN • AWS S3 • Tailwind CSS
 
-      <h3>Cloud Image & Video Gallery</h3>
+---
 
-      <p>
-        Cloud-based media platform for uploading,
-        storing and managing images and videos.
-      </p>
+### Root Cause Analyser
 
-      <p>
-        <b>
-          MERN • AWS S3 • Tailwind CSS
-        </b>
-      </p>
+Real-time log monitoring and incident analysis system with rule-based detection.
 
-    </td>
+**Tech:** React • Flask • MongoDB • Python
 
-  </tr>
+---
 
-  <tr>
+### IoT Attendance Platform
 
-    <td width="50%" align="center">
+Automated attendance and work-hour tracking using an IP-based biometric device.
 
-      <h3>Root Cause Analyser</h3>
-
-      <p>
-        Real-time log monitoring and incident analysis
-        system with rule-based detection.
-      </p>
-
-      <p>
-        <b>
-          React • Flask • MongoDB • Python
-        </b>
-      </p>
-
-    </td>
-
-    <td width="50%" align="center">
-
-      <h3>IoT Attendance Platform</h3>
-
-      <p>
-        Automated attendance and work-hour tracking
-        using an IP-based biometric device.
-      </p>
-
-      <p>
-        <b>
-          Node.js • Express • MySQL • IoT
-        </b>
-      </p>
-
-    </td>
-
-  </tr>
-</table>
+**Tech:** Node.js • Express • MySQL • IoT
 
 <br>
 
@@ -505,26 +227,10 @@
 <h2 align="center">CONTRIBUTION GRAPH</h2>
 
 <p align="center">
-
-  <picture>
-
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Shamanth-k/Shamanth-k/output/github-contribution-grid-snake-dark.svg"
-    />
-
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Shamanth-k/Shamanth-k/output/github-contribution-grid-snake.svg"
-    />
-
-    <img
-      src="https://raw.githubusercontent.com/Shamanth-k/Shamanth-k/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
-
-  </picture>
-
+  <img
+    src="https://raw.githubusercontent.com/Shamanth-k/Shamanth-k/output/github-contribution-grid-snake.svg"
+    alt="GitHub Contribution Snake"
+  />
 </p>
 
 <br>
@@ -556,14 +262,12 @@
 <h2 align="center">LET'S CONNECT</h2>
 
 <p align="center">
-
-<a href="mailto:shamanthk2004@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-shamanthk2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Email"
-  />
-</a>
-
+  <a href="mailto:shamanthk2004@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-shamanthk2004%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 </p>
 
 <br>
@@ -573,12 +277,10 @@
 <!-- ========================================================= -->
 
 <p align="center">
-
-<img
+  <img
     src="https://komarev.com/ghpvc/?username=shamanth-k&label=Profile%20Views&color=0e75b6&style=for-the-badge"
     alt="Profile Views"
   />
-
 </p>
 
 <p align="center">
