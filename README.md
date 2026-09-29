@@ -574,7 +574,7 @@
 
 <p align="center">
 
-  <img
+<img
     src="https://komarev.com/ghpvc/?username=shamanth-k&label=Profile%20Views&color=0e75b6&style=for-the-badge"
     alt="Profile Views"
   />
